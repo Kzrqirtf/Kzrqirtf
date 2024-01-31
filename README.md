@@ -111,7 +111,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kzrqirtf/Kzrqirtf/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
 
