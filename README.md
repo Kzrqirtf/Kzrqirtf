@@ -111,7 +111,7 @@
 
 ###
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
