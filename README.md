@@ -1,7 +1,6 @@
 <br clear="both">
-
 <div align="center">
-  <img height="600" src="https://cdn.dribbble.com/users/530731/screenshots/14742997/girls-set_4x.png"  />
+  <img height="300" width="700"  src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
 </div>
 
 ###
@@ -23,6 +22,13 @@
 ###
 
 <p align="left">👋 Hi, I'm Kritika! 🎓🚀<br><br>💻 3rd-year B.Tech student<br>🌐 Passionate about technology and innovation<br>📚💻 Currently exploring academia and coding<br>🌟 Loves a good challenge and embraces new opportunities<br>☕🚀 Tech journey fueled by curiosity, code, and coffee<br>📊💡 Enjoys diving into algorithms and learning new languages<br>✨ Excited about projects in the ever-evolving tech landscape<br>🚀📊 Keen on exploring domains like software development and data science</p>
+###
+<br clear="both">
+
+<div align="center">
+  <img height="600" src="https://cdn.dribbble.com/users/530731/screenshots/14742997/girls-set_4x.png"  />
+</div>
+
 
 ###
 
