@@ -1,7 +1,4 @@
-<br clear="both">
-<div align="center">
-  <img height="300" width="700"  src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
-</div>
+ <img height="200" width="800"  src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
 
 ###
 
