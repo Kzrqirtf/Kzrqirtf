@@ -1,4 +1,4 @@
- <img height="200" width="800"  src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
+ <img height="200" width="800" align="center"  src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
 
 ###
 
@@ -106,9 +106,11 @@
 
 ###
 
+### 📝 Stats Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kzrqirtf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kzrqirtf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=annu050&layout=compact&theme=tokyonight"  /><br>
+<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=annu050&theme=gruvbox" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=annu050&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
 
 ###
