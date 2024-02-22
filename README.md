@@ -108,9 +108,9 @@
 
 ### 📝 Stats Overview
 <div align="center">
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=annu050&layout=compact&theme=tokyonight"  /><br>
-<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=annu050&theme=gruvbox" /><br>
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=annu050&show_icons=true&include_all_commits=false&theme=radical" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Kzrqirtf&layout=compact&theme=tokyonight"  /><br>
+<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=Kzrqirtf&theme=gruvbox" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kzrqirtf&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
 
 ###
